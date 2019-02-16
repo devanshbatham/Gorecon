@@ -1,6 +1,9 @@
 # Gorecon
+![Gorecon](https://gorecon.000webhostapp.com/gorecon.PNG)
+
 Gorecon is a lightweight Reconnaissance Tool , which might make your recon process a bit easy 
 It is still in its Beta state , 
+
 
 # Main Features
 `1  - [+] Dns Lookup `
@@ -9,9 +12,9 @@ It is still in its Beta state ,
 
 `3  - [+] Nmap scan` 
 
-`4  - [+] Zone Transfer Lookup 
+`4  - [+] Zone Transfer Lookup `
 
-`5  - [+] Shared DNS server lookup`
+`5  - [+]  Shared DNS server lookup`
 
 `6  - [+] Web Scrapper `
 
@@ -21,7 +24,7 @@ It is still in its Beta state ,
 
 `9  - [+] Admin panel finder (with Screenshots)`
 
-`10 - [+] Directory Bruteforce (with Screenshots)
+`10 - [+] Directory Bruteforce (with Screenshots)`
 
 `11 - [+] Configuration Files Finder`
 
@@ -33,11 +36,11 @@ It is still in its Beta state ,
 
 `15 - [+] Email Hunter (find emails of the company)`
 
-`16 - [+] Use Rapid7 Open Data's Project Sonar for Finding Subdomains)
+`16 - [+] Use Rapid7 Open Data's Project Sonar for Finding Subdomains)`
 
 `17 - [+] Use Virustotal API for Finding subdomains`
 
-`18 - [+] Use Threatcrowd's API for Finding subdomains
+`18 - [+] Use Threatcrowd's API for Finding subdomains`
 
 `19 - [+] Run All scans`
 
