@@ -3,7 +3,7 @@
 ![Gorecon](https://gorecon.000webhostapp.com/gorecon.PNG)
 
 **Gorecon is a lightweight Reconnaissance Tool , which might make your recon process a bit more easy 
-(It is still in its Beta state ), **
+(It is still in its Beta state )**
 
 
 # Main Features
@@ -54,7 +54,7 @@ Tested on  : Windows,Linux*
 **Gorecon can be easiliy installed by following the below mentioned steps : 
 Note : Before installing gorecon make sure you have Go installed on your machine **
 
-1 - run the following commands :
+**1 - run the following commands :**
 
 `go get "github.com/devanshbatham/gorecon"`
 
@@ -64,11 +64,11 @@ Note : Before installing gorecon make sure you have Go installed on your machine
 
 `go get "github.com/gocolly/colly"`
 
-2 - Run  :
+**2 - Run  :**
 `go run gorecon.go --url example.com`
 
 # Usage 
-Gorecon can be used in the following ways : 
+**Gorecon can be used in the following ways : **
 
 `go run gorecon.go --url example.com`
 
