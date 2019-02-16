@@ -3,9 +3,8 @@ Gorecon is a lightweight Reconnaissance Tool , which might make your recon proce
 It is still in its Beta state , 
 
 # Main Features
-`1  - [+] Dns Lookup 
-
-2  - [+] Whois Lookup
+`1  - [+] Dns Lookup `
+`2  - [+] Whois Lookup`
 
 3  - [+] Nmap scan 
 
