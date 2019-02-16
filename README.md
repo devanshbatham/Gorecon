@@ -52,7 +52,7 @@ Tested on  : Windows,Linux**
 
 # Installation 
 **Gorecon can be easiliy installed by following the below mentioned steps : 
-Note : Before installing gorecon make sure you have Go installed on your machine **
+Note : Before installing gorecon make sure you have Go installed on your machine**
 
 **1 - run the following commands :**
 
