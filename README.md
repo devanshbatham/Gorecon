@@ -74,6 +74,13 @@ Note : Before installing gorecon make sure you have Go installed on your machine
 
 `go run gorecon.go -url example.com`
 
+# Files 
+`paths.txt - for directory Bruteforce`
+
+`conf.txt  - for configuration file Bruteforce`
+
+`read.txt  - for admin panel Bruteforce`
+
 # Contact 
 **want to collabarate or chat in private? DM me [My twitter : @devanshwolf!](http://twitter.com/devanshwolf)**
 
@@ -85,4 +92,4 @@ Note : Before installing gorecon make sure you have Go installed on your machine
     * Give suggestions to make it better
     * Fix issues & submit a pull request
     * Suggest New features 
-
+**Note : I know the code is dirty , :P**
