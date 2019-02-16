@@ -2,8 +2,8 @@
 
 ![Gorecon](https://gorecon.000webhostapp.com/gorecon.PNG)
 
-Gorecon is a lightweight Reconnaissance Tool , which might make your recon process a bit more easy 
-(It is still in its Beta state ), 
+**Gorecon is a lightweight Reconnaissance Tool , which might make your recon process a bit more easy 
+(It is still in its Beta state ), **
 
 
 # Main Features
@@ -46,13 +46,13 @@ Gorecon is a lightweight Reconnaissance Tool , which might make your recon proce
 `19 - [+] Run All scans`
 
 # Compatibility
-Gorecon is still in its beta state , It works fine though. 
+**Gorecon is still in its beta state , It works fine though. 
 It will run on anything that has Go compiler installed ,
-Tested on  : Windows,Linux
+Tested on  : Windows,Linux*
 
 # Installation 
-Gorecon can be easiliy installed by following the below mentioned steps : 
-Note : Before installing gorecon make sure you have Go installed on your machine 
+**Gorecon can be easiliy installed by following the below mentioned steps : 
+Note : Before installing gorecon make sure you have Go installed on your machine **
 
 1 - run the following commands :
 
@@ -75,11 +75,11 @@ Gorecon can be used in the following ways :
 `go run gorecon.go -url example.com`
 
 # Contact 
-want to collabarate or chat in private? DM me [My twitter : @devanshwolf!](http://twitter.com/devanshwolf)
+**want to collabarate or chat in private? DM me [My twitter : @devanshwolf!](http://twitter.com/devanshwolf)**
 
 # Contribution & License
 
-You can contribute in following ways:
+**You can contribute in following ways:**
 
     * Report bugs
     * Give suggestions to make it better
