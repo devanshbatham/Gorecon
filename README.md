@@ -4,41 +4,42 @@ It is still in its Beta state ,
 
 # Main Features
 `1  - [+] Dns Lookup `
+
 `2  - [+] Whois Lookup`
 
-3  - [+] Nmap scan 
+`3  - [+] Nmap scan` 
 
-4  - [+] Zone Transfer Lookup 
+`4  - [+] Zone Transfer Lookup 
 
-5  - [+] Shared DNS server lookup
+`5  - [+] Shared DNS server lookup`
 
-6  - [+] Web Scrapper 
+`6  - [+] Web Scrapper `
 
-7  - [+] Reverse DNS lookup
+`7  - [+] Reverse DNS lookup`
 
-8  - [+] Subnet calculator
+`8  - [+] Subnet calculator`
 
-9  - [+] Admin panel finder (with Screenshots)
+`9  - [+] Admin panel finder (with Screenshots)`
 
-10 - [+] Directory Bruteforce (with Screenshots)
+`10 - [+] Directory Bruteforce (with Screenshots)
 
-11 - [+] Configuration Files Finder
+`11 - [+] Configuration Files Finder`
 
-12 - [+] HTTP Header Information
+`12 - [+] HTTP Header Information`
 
-13 - [+] GeoIp Lookup
+`13 - [+] GeoIp Lookup`
 
-14 - [+] Find/Analyze Content Management System (CMS) 
+`14 - [+] Find/Analyze Content Management System (CMS)`
 
-15 - [+] Email Hunter (find emails of the company)
+`15 - [+] Email Hunter (find emails of the company)`
 
-16 - [+] Use Rapid7 Open Data's Project Sonar for Finding Subdomains)
+`16 - [+] Use Rapid7 Open Data's Project Sonar for Finding Subdomains)
 
-17 - [+] Use Virustotal API for Finding subdomains
+`17 - [+] Use Virustotal API for Finding subdomains`
 
-18 - [+] Use Threatcrowd's API for Finding subdomains
+`18 - [+] Use Threatcrowd's API for Finding subdomains
 
-19 - [+] Run All scans`
+`19 - [+] Run All scans`
 
 # Compatibility
 Gorecon is still in its beta state , It works fine though. 
