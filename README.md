@@ -48,7 +48,7 @@
 # Compatibility
 **Gorecon is still in its beta state , It works fine though. 
 It will run on anything that has Go compiler installed ,
-Tested on  : Windows,Linux*
+Tested on  : Windows,Linux**
 
 # Installation 
 **Gorecon can be easiliy installed by following the below mentioned steps : 
@@ -68,7 +68,7 @@ Note : Before installing gorecon make sure you have Go installed on your machine
 `go run gorecon.go --url example.com`
 
 # Usage 
-**Gorecon can be used in the following ways : **
+**Gorecon can be used in the following ways :**
 
 `go run gorecon.go --url example.com`
 
