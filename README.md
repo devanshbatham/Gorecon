@@ -3,7 +3,7 @@ Gorecon is a lightweight Reconnaissance Tool , which might make your recon proce
 It is still in its Beta state , 
 
 # Main Features
-1  - [+] Dns Lookup 
+`1  - [+] Dns Lookup 
 
 2  - [+] Whois Lookup
 
@@ -39,7 +39,7 @@ It is still in its Beta state ,
 
 18 - [+] Use Threatcrowd's API for Finding subdomains
 
-19 - [+] Run All scans
+19 - [+] Run All scans`
 
 # Compatibility
 Gorecon is still in its beta state , It works fine though. 
