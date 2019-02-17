@@ -92,4 +92,10 @@ Note : Before installing gorecon make sure you have Go installed on your machine
     * Give suggestions to make it better
     * Fix issues & submit a pull request
     * Suggest New features 
+    
+# Wanna show support for the tool ? 
+**I will more than happy if you will show some love for Animals by donating to [Animal Aid Unlimited](https://animalaidunlimited.org/)**
+**Animal Aid Unlimited saves animals through street animal rescue, spay/neuter and education.
+Their mission is dedicated to the day when all living beings are treated with compassion and love.** :sparkles:
+
 **Note : I know the code is dirty , :P**
