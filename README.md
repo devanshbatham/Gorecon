@@ -74,6 +74,9 @@ Note : Before installing gorecon make sure you have Go installed on your machine
 
 `go run gorecon.go -url example.com`
 
+#run all scans without user input 
+`echo "19\n y"| ./gorecon --url example.com` 
+
 # Files 
 `paths.txt - for directory Bruteforce`
 
