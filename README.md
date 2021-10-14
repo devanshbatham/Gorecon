@@ -1,6 +1,6 @@
-# Gorecon - lightweight Reconnaissance Tool (Beta)
+# NO LONGER MAINTAINED
 
-![Gorecon](https://gorecon.000webhostapp.com/gorecon.PNG)
+# Gorecon - lightweight Reconnaissance Tool
 
 **Gorecon is a lightweight Reconnaissance Tool , which might make your recon process a bit more easy 
 (It is still in its Beta state )**
